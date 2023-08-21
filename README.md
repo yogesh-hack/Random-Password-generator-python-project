@@ -1,4 +1,4 @@
-# Random Password Generator and User Login Interface
+# Random Password Generator
 
 Welcome to the Random Password Generator and User Login Interface project! This project combines the convenience of a random password generator with a user-friendly login interface, implemented using Python and Flask.
 
