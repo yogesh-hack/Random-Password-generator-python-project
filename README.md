@@ -35,6 +35,6 @@ Contributions are welcome! If you have ideas for improvements, bug fixes, or new
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yogesh-hack)
+Made with ❤️ by [Yogesh Baghel](https://github.com/yogesh-hack)
 
 
